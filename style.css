@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    background-color:#dcfff3;
+}
+button{
+    background-color:#dcfff3;
+    border:#93b693 1px solid;
+}
+button:active{
+    background-color:#93b693;
+    border:#dcfff3 1px solid;
+}
+.calc{
+    height:20px;
+    width:20px;
+    margin:0;
+    text-align:center;
+}
+#clear{
+    height:20px;
+    width:80px;
+}
