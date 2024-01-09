@@ -1,3 +1,4 @@
+let inputDiv =document.getElementById("inputOutput")
 let num1 = document.getElementById("1")
 let num2 = document.getElementById("2")
 let num3 = document.getElementById("3")
@@ -11,7 +12,9 @@ let plus = document.getElementById("plus")
 let minus = document.getElementById("minus")
 let times = document.getElementById("times")
 let divide = document.getElementById("divide")
+let clear = document.getElementById("clear")
+let result = 0
 
 function calculator(){
-
+    //
 }

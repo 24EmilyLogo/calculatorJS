@@ -3,20 +3,31 @@ body{
     background-color:#dcfff3;
 }
 button{
-    background-color:#dcfff3;
+    background-color:#ebfcf6;
     border:#93b693 1px solid;
 }
 button:active{
-    background-color:#93b693;
-    border:#dcfff3 1px solid;
+    background-color:#dcfff3;
+    border:#93b693 1px solid;
 }
 .calc{
-    height:20px;
-    width:20px;
+    height:4%;
+    padding:2%;
     margin:0;
     text-align:center;
 }
 #clear{
     height:20px;
     width:80px;
+}
+div{
+    background-color:#93b693;
+    width:50%;
+    margin:auto;
+}
+.topHalf{
+    padding-top:3%;
+}
+.bottomHalf{
+    padding-bottom:3%;
 }
